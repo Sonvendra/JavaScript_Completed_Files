@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+section{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    background-image: url("../img/forest.jpg");
+    color: white;
+    padding: 20px;
+    box-shadow:  0 0 15px black;
+}
+section h1{
+    font-size: 50px;
+    margin: 0;
+    font-family: "Old English Text MT",sans-serif;
+}

@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: lightsalmon;
+    text-align: center;
+    padding: 10px;
+}
+section{
+    background-color: whitesmoke;
+    padding: 15px;
+    box-shadow: 0 0 15px gray;
+}
+input{
+    font-size: 30px;
+    outline: none;
+}
+.login-form span{
+    font-size: 30px;
+}
+table td{
+    padding: 5px;
+}
